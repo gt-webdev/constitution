@@ -3,7 +3,7 @@ Written on: 4/15/2013
 
 ##Article I – Name 
 
-This organization will be known as GT Web Developers.  Hereafter referred to as GT WebDev.
+This organization will be known as GTWebDev. An official alternate form will be: gt-webdev.
 
 ##Article II – Purpose
 
@@ -24,6 +24,7 @@ D. Membership will take effect when an interested party signs the membership ros
 E. Members must not be war criminals.
 
 ##Article IV – Officers
+"Officers" jointly refers to the Technical Committee and Executive Board.
 
 ###Section I. 
 Only GT students eligible according to the GT Catalog can hold or run for office and they must already be members of the organization.
@@ -32,9 +33,13 @@ Only GT students eligible according to the GT Catalog can hold or run for office
 
 A. Technical Lead (aka. Ankit): The Technical Lead will plan out and take responsibility for providing appropriate content for meetings. The Technical Lead is to produce and maintain an agenda of topics to cover throughout each semester as well as ensure that the work produced by the Technical Committee is in-line with the technical standards and conventions adopted by the club for that semester.
 
-B. Logistical Lead (aka. Joel): The Logistical Lead will be responsible for maintaining communication between the club and its members as well as planning meetings and events. The Logistical Lead is responsible for coming up with a semester-budget for each semester and all communication with personnel of the College of Computing. In addition to his normal responsibilities, the Logistical Lead may be considered a part of the Technical Committee.
+B. President (aka. Joel): The President is responsible for the general direction of the club and representing the interest of its members to the Executive Board, personnel of the College of Computing, and to non CoC-affiliated persons. The President is responsible for coming up with a semester-budget for each semester and all communication with personnel of the College of Computing. The President is responsible for ensuring that all leadership positions are filledIn addition to his normal responsibilities, the President may be considered a part of the Technical Committee.
 
-C. Evangelist Lead (aka. Skalnik): The Evangelist Lead is responsible for any communication that happens between the club or members of the club (only in cases where said members are officially presented as members of GT WebDev) and any party outside the CoC. The Evangelist Lead is responsible for managing and planning any event that incorporate direct involvement with companies and non CoC-affiliated persons and for relaying appropriate information to and fro members of the clubs and said third-parties. In addition to his normal responsibilities, the Evangelist Lead may be considered a part of the Technical Committee.
+C. Evangelist Lead (aka. Skalnik): The Evangelist Lead is responsible for any communication that happens between the club and any party outside the CoC. The Evangelist Lead is responsible for managing and planning any event that incorporate direct involvement with companies and non CoC-affiliated persons and for relaying appropriate information to and from members of the clubs and said third-parties. In addition to his normal responsibilities, the Evangelist Lead may be considered a part of the Technical Committee.
+
+D. Communications Lead: The Communications Lead is responsible for any communication that happens between the club or members of the club (only in cases where said members are officially presented as members of GT WebDev). This includes management of the Facebook group, weekly meeting announcements, announcing special events, the ccorgs page, and the GTWebDev website.
+
+E. Marketing Lead: The Marketing Lead is responsible for creating promotional materials such as posters, fliers, Facebook cover photos, and potentially website design and graphics assets.
 
 ###Section III. 
 Members of the Technical Committee are also considered officers of the club and may attend officer meetings. Members of the committee are to assist the Technical Lead and share the responsibilities imposed on the committee by the Technical Lead. It is the responsibility of members of this committee to keep up with the material covered in meetings and assist in producing such material when it is needed. The committee is also responsible for providing assistance and support to members of the club.
@@ -57,7 +62,7 @@ C. The candidate names will be distributed at least 6 days in advance, with the 
 
 D. The candidate for each office receiving a majority vote of members at the elections meeting will be considered the victor.  If no candidate receives a majority vote, then there will be a run-off between the two candidates with the most votes.  The candidate who receives the most votes will be the victor. If there is still a tie, the highest-ranking outgoing officer not involved in the run-off will make the final decision. No member can be elected to more than one position on the Executive Board.
 
-E. New officers take office at the end of Spring Semester, unless the election was used to fill a position midwayy through a semester.
+E. New officers take office at the end of Spring Semester, unless the election was used to fill a position midway through a semester.
 
 F. If a position remains unfilled after the elections process the Logistical Lead will appoint a member to the position or re-assign duties to another officer. If the position in question is the Technical Lead, then the remaining officers are to appoint a Technical Lead by reaching a consensus.
 
@@ -65,7 +70,9 @@ G. Under special circumstances, officer elections may occur at other times in th
 Resignation or removal of an officer.
 Graduation or leave of absence (e.g. internship or break from school)
 
-H. Non-regular elections shall conform to the same rules defined above. 
+H. Non-regular elections shall conform to the same rules defined above.
+
+I. Under special circumstances, two people may jointly run together for a leadership position.
 
 ###Section VI. Officers shall be removed in this manner:
 
